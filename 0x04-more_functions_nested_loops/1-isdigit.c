@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isdigit - Entry point
  * Description: checks if c is a digit
